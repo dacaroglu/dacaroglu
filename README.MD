@@ -67,11 +67,11 @@
 </div>
 <div>
 <a href='https://www.linkedin.com/in/dacaroglu/' target='blank'>
-    
-</a>
+    <img src="assets/socials/linkedin.svg" height="40em" align="center" alt="Connect Deniz on Linkedin" title="Connect Deniz on Linkedin"/>
+    </a>
 </div>
 <div>
-    <a href='mailto:info@dacaroglu.ca'>
-        
+    <a href='mailto:info@dacaroglu.ca' target='blank'>
+    <img src="assets/socials/mail.svg" height="40em" align="center" alt="Email Me" title="Email Me"/>
     </a>
 </div>
