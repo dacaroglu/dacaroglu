@@ -1,8 +1,42 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! My name is Deniz</h1>
 
 
+<p>I'm Deniz ACAROGLU. Im a freelance web developer in Ontario/Canada. Right now I'm transitioning to Full Stack with node.js. </p>
 
+<h2>My Projects</h2>
+<table>
+    <thead>
+        <tr>
+            <td>Area</td>
+            <td>Project Name</td>
+            <td>Tech</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Ecommerce</td>
+            <td>Askidan Davete</td>
+            <td>
+                <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
+                <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-779796?style=flat-square&logo=Node.js&logoColor=white" />
+                <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-417399?style=flat-square&logo=mysql&logoColor=white" />
+                <img alt="UiKit" src="https://img.shields.io/badge/-UiKit-2394E8?style=flat-square&logo=Node.js&logoColor=white" />
+            </td>
+        </tr>
+        <tr>
+            <td>Ecommerce</td>
+            <td>Sanat Mahal</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Node Express Project</td>
+            <td>Spotify Weekly Best Song playlist Creator</td>
+            <td></td>
+        </tr>
+        
+    </tbody>
 
+</table>
 <h3>Tech I like</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -17,5 +51,11 @@
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Express" src="https://img.shields.io/badge/-Express-ffbf00?style=flat-square&logo=express&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-417399?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-54655E?style=flat-square&logo=Django&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-120750?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="Cognos" src="https://img.shields.io/badge/-Cognos-202124?style=flat-square&logo=ibm&logoColor=white" />
+  <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-779796?style=flat-square&logo=javascript&logoColor=white" />
 </p>
