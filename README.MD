@@ -62,7 +62,7 @@
 <h2>To Reach Me:</h2>
 <div>
     <a href='https://www.instagram.com/syhith/' target='blank'>
-    <img src="./assets/social/instagram.svg" height="40em" align="center" alt="Follow Deniz on Instagram" title="Follow Deniz on Instagram"/>
+    <img src="assets/socials/instagram.svg" height="40em" align="center" alt="Follow Deniz on Instagram" title="Follow Deniz on Instagram"/>
     </a>
 </div>
 <div>
