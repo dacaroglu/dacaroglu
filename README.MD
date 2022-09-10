@@ -27,12 +27,21 @@
         <tr>
             <td>Ecommerce</td>
             <td><a href='http://www.sanatmahal.dacaroglu.ca/tr'>Sanat Mahal</a></td>
-            <td></td>
+            <td>
+                <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
+                <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-779796?style=flat-square&logo=Node.js&logoColor=white" />
+                <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-417399?style=flat-square&logo=mysql&logoColor=white" />
+            </td>
         </tr>
         <tr>
             <td>Node Express Project</td>
             <td><a href='#'>Spotify Weekly Best Song playlist Creator</a></td>
-            <td></td>
+            <td>
+              <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+              <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+              <img alt="Materialize" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=materializa&logoColor=white" />
+
+            </td>
         </tr>
     </tbody>
 
@@ -61,17 +70,17 @@
 </p>
 <h2>To Reach Me:</h2>
 <div>
-    <a href='https://www.instagram.com/syhith/' target='blank'>
+<a href='https://www.instagram.com/syhith/' target='blank'>
     <img src="assets/socials/instagram.svg" height="40em" align="center" alt="Follow Deniz on Instagram" title="Follow Deniz on Instagram"/>
-    </a>
-</div>
-<div>
+</a>
+
+
 <a href='https://www.linkedin.com/in/dacaroglu/' target='blank'>
     <img src="assets/socials/linkedin.svg" height="40em" align="center" alt="Connect Deniz on Linkedin" title="Connect Deniz on Linkedin"/>
-    </a>
-</div>
-<div>
-    <a href='mailto:info@dacaroglu.ca' target='blank'>
+</a>
+
+
+<a href='mailto:info@dacaroglu.ca' target='blank'>
     <img src="assets/socials/mail.svg" height="40em" align="center" alt="Email Me" title="Email Me"/>
-    </a>
+</a>
 </div>
