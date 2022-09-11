@@ -70,12 +70,12 @@
 </p>
 <h2>To Reach Me:</h2>
 <div>
-<a href='https://www.instagram.com/syhith/' target='blank'>
+<a href='https://www.instagram.com/syhith/' target='_blank'>
     <img src="assets/socials/instagram.svg" height="40em" align="center" alt="Follow Deniz on Instagram" title="Follow Deniz on Instagram"/>
 </a>
 
 
-<a href='https://www.linkedin.com/in/dacaroglu/' target='blank'>
+<a href='https://www.linkedin.com/in/dacaroglu/' target='_blank'>
     <img src="assets/socials/linkedin.svg" height="40em" align="center" alt="Connect Deniz on Linkedin" title="Connect Deniz on Linkedin"/>
 </a>
 
