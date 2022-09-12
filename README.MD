@@ -15,7 +15,7 @@
     <tbody>
         <tr>
             <td>Ecommerce</td>
-            <td><a target='_blank' href='http://shielded-mesa-23002.herokuapp.com/'>Askidan Davete</a></td>
+            <td><a target='_blank' href='https://github.com/dacaroglu/Projects/tree/main/AskidanDavete'>Askidan Davete</a></td>
             <td>
                 <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
                 <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-779796?style=flat-square&logo=Node.js&logoColor=white" />
@@ -26,7 +26,7 @@
         </tr>
         <tr>
             <td>Ecommerce</td>
-            <td><a target='_blank' href='http://www.sanatmahal.dacaroglu.ca/tr'>Sanat Mahal</a></td>
+            <td><a target='_blank' href='https://github.com/dacaroglu/Projects/tree/main/SanatMahal'>Sanat Mahal</a></td>
             <td>
                 <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
                 <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-779796?style=flat-square&logo=Node.js&logoColor=white" />
