@@ -54,7 +54,7 @@
             </td>
         </tr>
         <tr>
-            <td>Crypto Market Values React Project</td>
+            <td>React Project</td>
             <td><a href='https://github.com/dacaroglu/crypto-news'>A project about using MERN stack showing crypto prices and select favorite coind from the websocket.</a></td>
             <td>
             <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
