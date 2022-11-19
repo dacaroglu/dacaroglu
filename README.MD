@@ -14,7 +14,7 @@
     </thead>
     <tbody>
         <tr>
-            <td style='color:#2FFF00;'>Ecommerce</td>
+            <td style="color:#2FFF00;">Ecommerce</td>
             <td><a target='_blank' href='https://github.com/dacaroglu/Projects/tree/main/AskidanDavete'>Askidan Davete</a></td>
             <td>
                 <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
