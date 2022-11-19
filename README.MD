@@ -57,52 +57,28 @@
             <td>Crypto Market Values React Project</td>
             <td><a href='https://github.com/dacaroglu/crypto-news'>A project about using MERN stack showing crypto prices and select favorite coind from the websocket.</a></td>
             <td>
-            <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-            <img alt="Materialize" src="https://img.shields.io/badge/-Material-43853d?style=flat-square&logo=css&logoColor=white" />
-            <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-            <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-ffbf00?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+            <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
             </td>
         </tr>
         <tr>
             <td>Predicting Flight Delays (Data Science Project)</td>
-            <td><a href='https://github.com/dacaroglu/crypto-news'>Project aim was to determine causes of the flight delays and predicting delays for the airlines/flights</a></td>
+            <td><a href='https://github.com/dacaroglu/Flight-Delays'>Project aim was to determine causes of the flight delays and predicting delays for the airlines/flights</a></td>
             <td>
-            <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-            <img alt="Materialize" src="https://img.shields.io/badge/-Material-43853d?style=flat-square&logo=css&logoColor=white" />
-            <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-            <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-ffbf00?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+            <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
             </td>
         </tr>
         <tr>
             <td>Predicting Credit Card Approvals (Data Science Project)</td>
-            <td><a href='https://github.com/dacaroglu/crypto-news'>Using linear regression decision making for credit card applications. </a></td>
+            <td><a href='https://github.com/dacaroglu/creditCardApproval'>Using linear regression decision making for credit card applications. </a></td>
             <td>
-            <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-            <img alt="Materialize" src="https://img.shields.io/badge/-Material-43853d?style=flat-square&logo=css&logoColor=white" />
-            <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-            <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-ffbf00?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+            <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
             </td>
         </tr>
         <tr>
-            <td>A General Look to Cryptocurrenct (Data Analysis Project)</td>
-            <td><a href='https://github.com/dacaroglu/crypto-news'>A project for making an overlook to the crypto currency market by dominanca, size and volatility. Insights created with matplotlib.</a></td>
+            <td>A General Look to Cryptocurrency (Data Analysis Project)</td>
+            <td><a href='https://github.com/dacaroglu/CryptocurrencyMarketAnalysis'>A project for making an overlook to the crypto currency market by dominanca, size and volatility. Insights created with matplotlib.</a></td>
             <td>
-            <img alt="Heroku" src="https://img.shields.io/badge/-Pandas-430098?style=flat-square&logo=pandas&logoColor=white" />
-            <img alt="Materialize" src="https://img.shields.io/badge/-Material-43853d?style=flat-square&logo=css&logoColor=white" />
-            <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-            <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/-Express-ffbf00?style=flat-square&logo=express&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+            <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
             </td>
         </tr>
     </tbody>
