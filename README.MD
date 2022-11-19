@@ -35,7 +35,11 @@
         </tr>
         <tr>
             <td>Node Express Project</td>
+<<<<<<< HEAD
             <td><a href='https://github.com/dacaroglu/Spotify-BestSongsPlayer'>Spotify Weekly Best Song playlist Creator</a></td>
+=======
+            <td><a href='#'>Spotify Weekly Best Song playlist Creator</a></td>
+>>>>>>> 30249d014140493112b735f9bb1acfd910775bc2
             <td>
               <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
               <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -43,6 +47,7 @@
             <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
             </td>
         </tr>
+<<<<<<< HEAD
         <tr>
             <td>Django Project</td>
             <td><a href='https://github.com/dacaroglu/DjangoShopCart'>A demo of a shoppint cart with crud operations on Django</a></td>
@@ -105,6 +110,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
             </td>
         </tr>
+=======
+>>>>>>> 30249d014140493112b735f9bb1acfd910775bc2
     </tbody>
 
 </table>
