@@ -61,22 +61,22 @@
             </td>
         </tr>
         <tr>
-            <td>Predicting Flight Delays (Data Science Project)</td>
-            <td><a href='https://github.com/dacaroglu/Flight-Delays'>Project aim was to determine causes of the flight delays and predicting delays for the airlines/flights</a></td>
+            <td>Data Science Project</td>
+            <td><a href='https://github.com/dacaroglu/Flight-Delays'>Predicting Flight Delays</a></td>
             <td>
             <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
             </td>
         </tr>
         <tr>
-            <td>Predicting Credit Card Approvals (Data Science Project)</td>
-            <td><a href='https://github.com/dacaroglu/creditCardApproval'>Using linear regression decision making for credit card applications. </a></td>
+            <td>Data Science Project</td>
+            <td><a href='https://github.com/dacaroglu/creditCardApproval'>Predicting Credit Card Approvals </a></td>
             <td>
             <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
             </td>
         </tr>
         <tr>
-            <td>A General Look to Cryptocurrency (Data Analysis Project)</td>
-            <td><a href='https://github.com/dacaroglu/CryptocurrencyMarketAnalysis'>A project for making an overlook to the crypto currency market by dominanca, size and volatility. Insights created with matplotlib.</a></td>
+            <td>Data Analysis Project</td>
+            <td><a href='https://github.com/dacaroglu/CryptocurrencyMarketAnalysis'>A General Look to Cryptocurrency</a></td>
             <td>
             <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
             </td>
@@ -90,6 +90,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
