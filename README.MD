@@ -55,9 +55,12 @@
         </tr>
         <tr>
             <td>React Project</td>
-            <td><a href='https://github.com/dacaroglu/crypto-news'>A project about using MERN stack showing crypto prices and select favorite coind from the websocket.</a></td>
+            <td><a href='https://github.com/dacaroglu/crypto-news'>A project about using MERN stack showing crypto prices and select favorite coins from the websocket.</a></td>
             <td>
-            <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
             </td>
         </tr>
         <tr>
