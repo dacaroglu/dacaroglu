@@ -1,5 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! My name is Deniz</h1>
-
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" /> Hey! My name is Deniz</h1>
 
 <p>I'm Deniz ACAROGLU. Im a freelance web developer in Ontario/Canada. Right now I'm transitioning to Full Stack with node.js. </p>
 
@@ -37,7 +36,7 @@
   <td>IoT / Ops</td>
   <td title="Repo available on request">
     <span>
-      Reptile Command Center — husbandry dashboard & automations (tasks, inventory, sensor ingest)
+      Reptile Command Center — husbandry dashboard &amp; automations (tasks, inventory, sensor ingest)
     </span>
   </td>
   <td>
@@ -53,27 +52,8 @@
   </td>
 </tr>
 
-<tr>
-            <td style="color:#2FFF00;">Ecommerce</td>
-            <td><a target='_blank' href='https://github.com/dacaroglu/Projects/tree/main/AskidanDavete'>Askidan Davete</a></td>
-            <td>
-                <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
-                <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-779796?style=flat-square&logo=Node.js&logoColor=white" />
-                <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-417399?style=flat-square&logo=mysql&logoColor=white" />
-                <img alt="UiKit" src="https://img.shields.io/badge/-UiKit-2394E8?style=flat-square&logo=Node.js&logoColor=white" />
-                <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-            </td>
-        </tr>
-        <tr>
-            <td>Ecommerce</td>
-            <td><a target='_blank' href='https://github.com/dacaroglu/Projects/tree/main/SanatMahal'>Sanat Mahal</a></td>
-            <td>
-                <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
-                <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-779796?style=flat-square&logo=Node.js&logoColor=white" />
-                <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-417399?style=flat-square&logo=mysql&logoColor=white" />
-            </td>
-        </tr>
-        <tr>
+
+  <tr>
             <td>Node Express Project</td>
             <td><a href='https://github.com/dacaroglu/Spotify-BestSongsPlayer'>Spotify Weekly Best Song playlist Creator</a></td>
             <td>
@@ -83,15 +63,6 @@
             <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
             </td>
         </tr>
-        <tr>
-            <td>Django Project</td>
-            <td><a href='https://github.com/dacaroglu/DjangoShopCart'>A demo of a shoppint cart with crud operations on Django</a></td>
-            <td>
-              <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-              <img alt="Materialize" src="https://img.shields.io/badge/-Material-43853d?style=flat-square&logo=css&logoColor=white" />
-            <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            <img alt="Django" src="https://img.shields.io/badge/-Django-54655E?style=flat-square&logo=Django&logoColor=white" />
-            </td>
         </tr>
         <tr>
             <td>React Project</td>
@@ -122,6 +93,26 @@
             <td><a href='https://github.com/dacaroglu/CryptocurrencyMarketAnalysis'>A General Look to Cryptocurrency</a></td>
             <td>
             <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
+            </td>
+        </tr>
+        <tr>
+            <td style="color:#2FFF00;">Ecommerce</td>
+            <td><a target='_blank' href='https://github.com/dacaroglu/Projects/tree/main/AskidanDavete'>Askidan Davete</a></td>
+            <td>
+                <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
+                <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-779796?style=flat-square&logo=Node.js&logoColor=white" />
+                <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-417399?style=flat-square&logo=mysql&logoColor=white" />
+                <img alt="UiKit" src="https://img.shields.io/badge/-UiKit-2394E8?style=flat-square&logo=Node.js&logoColor=white" />
+                <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+            </td>
+        </tr>
+        <tr>
+            <td>Ecommerce</td>
+            <td><a target='_blank' href='https://github.com/dacaroglu/Projects/tree/main/SanatMahal'>Sanat Mahal</a></td>
+            <td>
+                <img alt="PHP" src="https://img.shields.io/badge/-PHP-5D6AA4?style=flat-square&logo=php&logoColor=white" />
+                <img alt="Ajax" src="https://img.shields.io/badge/-Ajax-779796?style=flat-square&logo=Node.js&logoColor=white" />
+                <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-417399?style=flat-square&logo=mysql&logoColor=white" />
             </td>
         </tr>
     </tbody>
@@ -156,13 +147,11 @@
     <img src="assets/socials/instagram.svg" height="40em" align="center" alt="Follow Deniz on Instagram" title="Follow Deniz on Instagram"/>
 </a>
 
-
 <a href='https://www.linkedin.com/in/dacaroglu/' target='_blank'>
     <img src="assets/socials/linkedin.svg" height="40em" align="center" alt="Connect Deniz on Linkedin" title="Connect Deniz on Linkedin"/>
 </a>
 
-
-<a href='mailto:info@dacaroglu.ca' target='blank'>
+<a href='mailto:info@dacaroglu.ca' target='_blank'>
     <img src="assets/socials/mail.svg" height="40em" align="center" alt="Email Me" title="Email Me"/>
 </a>
 </div>
