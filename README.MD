@@ -36,7 +36,9 @@
   <td>IoT / Ops</td>
   <td title="Repo available on request">
     <span>
-      Reptile Command Center — husbandry dashboard &amp; automations (tasks, inventory, sensor ingest)
+      <a href="https://github.com/dacaroglu/Reptile_Center">
+Reptile Command Center — husbandry dashboard &amp; automations (tasks, inventory, sensor ingest)
+</a>
     </span>
   </td>
   <td>
