@@ -82,16 +82,7 @@
             <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
             </td>
         </tr>
-        <tr>
-            <td>Django Project</td>
-            <td><a href='https://github.com/dacaroglu/DjangoShopCart'>A demo of a shoppint cart with crud operations on Django</a></td>
-            <td>
-              <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-              <img alt="Materialize" src="https://img.shields.io/badge/-Material-43853d?style=flat-square&logo=css&logoColor=white" />
-            <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-            <img alt="Django" src="https://img.shields.io/badge/-Django-54655E?style=flat-square&logo=Django&logoColor=white" />
-            </td>
-        </tr>
+       
         <tr>
             <td>React Project</td>
             <td><a href='https://github.com/dacaroglu/crypto-news'>A project about using MERN stack showing crypto prices and select favorite coins from the websocket.</a></td>
