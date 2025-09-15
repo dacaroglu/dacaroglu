@@ -14,6 +14,45 @@
     </thead>
     <tbody>
         <tr>
+  <td style="color:#2FFF00;">Sports Analytics</td>
+  <td>
+    <a target="_blank" href="https://football.dacaroglu.ca" title="Live app">
+      Football Analytics Platform (live) — SofaScore-style stats, odds tools, and model playground
+    </a>
+  </td>
+  <td>
+    <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+    <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+    <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+    <img alt="Celery" src="https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+    <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+  </td>
+</tr>
+
+<tr>
+  <td>IoT / Ops</td>
+  <td title="Repo available on request">
+    <span>
+      Reptile Command Center — husbandry dashboard & automations (tasks, inventory, sensor ingest)
+    </span>
+  </td>
+  <td>
+    <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Uvicorn" src="https://img.shields.io/badge/-Uvicorn-222222?style=flat-square&logo=python&logoColor=white" />
+    <img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=databricks&logoColor=white" />
+    <img alt="Alembic" src="https://img.shields.io/badge/-Alembic-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+    <img alt="Home Assistant" src="https://img.shields.io/badge/-Home%20Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white" />
+    <img alt="ESPHome" src="https://img.shields.io/badge/-ESPHome-000000?style=flat-square&logo=esphome&logoColor=white" />
+  </td>
+</tr>
+<tr>
             <td style="color:#2FFF00;">Ecommerce</td>
             <td><a target='_blank' href='https://github.com/dacaroglu/Projects/tree/main/AskidanDavete'>Askidan Davete</a></td>
             <td>
@@ -84,6 +123,7 @@
             <img alt="Python" src="https://img.shields.io/badge/-Python-430098?style=flat-square&logo=python&logoColor=white" />
             </td>
         </tr>
+
     </tbody>
 
 </table>
